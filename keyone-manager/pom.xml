@@ -31,9 +31,9 @@
 				<configuration>
 					<port>8080</port>
 					<path>/</path>
-					<!--  <url>http://121.199.2.76:8081/manager/text</url>
-					<username>tomcat</username>
-					<password>tomcat</password> -->
+					<!--<url>http://121.199.2.76/manager/text</url>
+					<username>admin</username>
+					<password>admin</password>-->
 				</configuration>
 			</plugin>
 		</plugins>
