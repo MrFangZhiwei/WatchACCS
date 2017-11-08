@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="keyone-portal"
+  id="myeclipse.1493818517526"
+  context-root="/keyone-portal"
+  j2ee-spec="1.7"
+  archive="keyone-portal.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+

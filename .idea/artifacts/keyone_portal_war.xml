@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="keyone-portal:war">
+    <output-path>$PROJECT_DIR$/keyone-portal/target</output-path>
+    <root id="archive" name="keyone-portal.war">
+      <element id="artifact" artifact-name="keyone-portal:war exploded" />
+    </root>
+  </artifact>
+</component>

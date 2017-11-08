@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../ACCS/control-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ACCS/control-manager/control-manager-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ACCS/control-manager/control-manager-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ACCS/control-manager/control-manager-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ACCS/control-manager/control-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/keyone-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/keyone-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/keyone-manager/keyone-manager-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/keyone-manager/keyone-manager-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/keyone-manager/keyone-manager-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/keyone-manager/keyone-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/keyone-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/keyone-portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/keyone-sso" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

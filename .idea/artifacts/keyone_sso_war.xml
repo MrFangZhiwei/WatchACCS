@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="keyone-sso:war">
+    <output-path>$PROJECT_DIR$/keyone-sso/target</output-path>
+    <root id="archive" name="keyone-sso.war">
+      <element id="artifact" artifact-name="keyone-sso:war exploded" />
+    </root>
+  </artifact>
+</component>

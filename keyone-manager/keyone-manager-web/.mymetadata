@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="keyone-manager-web"
+  id="myeclipse.1493818815164"
+  context-root="/keyone-manager-web"
+  j2ee-spec="1.7"
+  archive="keyone-manager-web.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
