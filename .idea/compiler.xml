@@ -92,7 +92,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="keyone-common" target="1.8" />
+      <module name="keyone-common" target="1.7" />
       <module name="keyone-manager" target="1.8" />
       <module name="keyone-manager-mapper" target="1.8" />
       <module name="keyone-manager-pojo" target="1.8" />
